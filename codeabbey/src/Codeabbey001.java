@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class codeabbey001 {
+public class Codeabbey001 {
     public static void main(String[] args) {
         //Datos
         float dato1= 0;
